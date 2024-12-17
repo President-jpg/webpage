@@ -1,11 +1,11 @@
 // Playlist of songs (Add actual URLs to mp3 files)
 const playlist = [
-    { title: "Song 1", src: "musics/Y2meta.app-Kendrick-Lamar-Not-Like-Us-128-kbps.mp3" },
-    { title: "Song 2", src: "musics/Drake-Knife-Talk-Ft-21-Savage-And-Project-Pat-(TrendyBeatz.com).mp3" },
-    { title: "Song 3", src: "musics/Oliver_Tree_-_Life_Goes_On_CeeNaija.com_.mp3" },
-    { title: "Song 4", src: "musics/ice_spice_think_u_the_shit_fart.mp3" },
-    { title: "Song 5", src: "musics/dave_x_aj_tracey_thiago_silva_mp3_37239.mp3" },
-    { title: "Song 6", src: "musics/denzel_curry_ultimate_lyrics_mp3_37584.mp3" },
+    { title: "Song 1", src: "\Y2meta.app-Kendrick-Lamar-Not-Like-Us-128-kbps.mp3" },
+    { title: "Song 2", src: "\Drake-Knife-Talk-Ft-21-Savage-And-Project-Pat-(TrendyBeatz.com).mp3" },
+    { title: "Song 3", src: "\Oliver_Tree_-_Life_Goes_On_CeeNaija.com_.mp3" },
+    { title: "Song 4", src: "\ice_spice_think_u_the_shit_fart.mp3" },
+    { title: "Song 5", src: "\dave_x_aj_tracey_thiago_silva_mp3_37239.mp3" },
+    { title: "Song 6", src: "\denzel_curry_ultimate_lyrics_mp3_37584.mp3" },
 ];
 
 let currentTrackIndex = 0;
